@@ -2,8 +2,9 @@ body{
 	background-color: #f1839b;
 	background-image: url("flowers2.png");
 	background-size: cover;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
-	font-family: 'Handlee', sans-serif, cursive;
+	font-family: 'Handlee',cursive;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -77,3 +78,4 @@ a{
 	border-top: 3px solid #45455c;
 	padding-top: 25px;
 }
+
