@@ -71,11 +71,17 @@ a{
 }
 
 .container{
-	margin-top:250px;
+	margin-top:27vh;
 }
 
 .date{
 	border-top: 3px solid #45455c;
 	padding-top: 25px;
+}
+
+@media(max-width:450px){
+	.container{
+		margin-top: 15vh;
+	}
 }
 
