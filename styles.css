@@ -1,6 +1,6 @@
 body{
 	background-color: #edeef4;
-	font-family: 'Handlee', cursive;
+	font-family: 'Handlee', sans-serif, cursive;
 	display: flex;
 	justify-content: center;
 	align-items: center;

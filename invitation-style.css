@@ -3,7 +3,7 @@ body{
 	background-image: url("flowers2.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	font-family: 'Handlee', cursive;
+	font-family: 'Handlee', sans-serif, cursive;
 	display: flex;
 	justify-content: center;
 	align-items: center;
