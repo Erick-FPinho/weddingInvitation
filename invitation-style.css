@@ -75,13 +75,21 @@ a{
 }
 
 .date{
-	border-top: 3px solid #45455c;
 	padding-top: 25px;
+}
+
+.divider{
+	border-top: 3px solid #45455c;
 }
 
 @media(max-width:450px){
 	.container{
 		margin-top: 15vh;
+	}
+
+	.divider{
+		width: 70vw;
+		margin: 0px auto;
 	}
 }
 
