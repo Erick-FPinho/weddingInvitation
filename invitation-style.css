@@ -19,6 +19,14 @@ body{
 	text-align: center;
 }
 
+.title-one{
+	color:#ff7bbd;
+	font-size: 65px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
 .subtitle{
 	color:#ff7bbd;
 	font-size: 35px;
